@@ -1,0 +1,18 @@
+.languages{
+    width: 400px;
+    height: 400px;
+}
+#list {
+    text-align: center;
+    font-size: 20px;
+}
+#list li{
+    list-style: none;
+}
+.button {
+    text-align: center;
+    margin-left: 190px;
+}
+#languages:hover{
+    cursor: pointer;
+}
